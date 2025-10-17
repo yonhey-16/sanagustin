@@ -103,6 +103,14 @@
     "url": "https://andfkx.github.io/appparejas15oct/"
   },
   {
+    "nombreapp": "consejos",
+    "descripcion": "es una aplicacion de consejos en ingles.",
+    "icono": "https://drive.google.com/file/d/1AYs2_ICDwM84MbFAUENAEBi5yoaFmd-U/view?usp=sharing",
+    "integrantes": ["Santiago bonilla"],
+    "actividad": "drive, apk de api",
+    "url": "https://drive.google.com/file/d/1StmgrCGLcm_iTbTq0XyERPZYfjRGVf35/view?usp=sharing"
+  },
+  {
     "nombreapp": "Stopwatch",
     "descripcion": "Tienes un stopwatch para configurar alarmas en horas, minutos y segundos, muy útiles para deportistas o para tareas que se deben realizar en un muy corto periodo de tiempo.",
     "icono": "https://www.flaticon.es/icono-gratis/hora_2982765?term=cronometro&page=1&position=38&origin=search&related_id=2982765",
